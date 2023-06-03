@@ -24,7 +24,7 @@ def wishMe():
         speak("Good Afternoon!")
     else:
         speak("Good Evening!")
-    speak("welcome I am your AI assistant. How may I assist priyanshu sunny tinku and yogesh?")
+    speak("welcome I am your AI assistant. How may I assist you priyanshu ")
 
 # Function to take user input through voice recognition
 def takeCommand():
